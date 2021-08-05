@@ -1,0 +1,22 @@
+h3{
+
+ font-size: 25px;
+
+}
+.btn-success:hover{
+
+background-color:rgb(235, 49, 86);
+
+}
+canvas{
+
+  border:1px solid black;
+
+}
+@keyframes example{
+
+  from{box-shadow: 1px 1px 38px crimson;}
+
+  to{box-shadow: 1px 1px 38px yellow;}
+
+}
